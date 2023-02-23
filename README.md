@@ -14,6 +14,7 @@ elimden geldiğince kitaptan özet ve akılda kalıcı bilgileri burada paylaşa
 Değişken: işlenmemiş bilgi parçasına verilen isimdir.
 
 // Değişken Türleri
+   
     a. String-Metin Veri Tipleri: "çift tırnak içerisinde yazılan veri tipidir."
     
     b. Karaket Veri Tipleri: Karakter veri tipi metin barındırır. Ancak sadece tek bir karakter olabilir. 
